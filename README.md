@@ -5,7 +5,9 @@ Registered users can:
 - Delete comments
 - Edit posts
 - Delete posts
+Guests can comment on posts, create RSS feeds
 
+This application allows you to 
 How to use
 - Clone the repository with git clone
 - Copy .env.example file to .env and edit database credentials there
@@ -13,4 +15,4 @@ How to use
 - Run php artisan key:generate
 - Run php artisan migrate
 - Run the seeder 
-That's it - load the homepage
+- That's it - load the homepage
