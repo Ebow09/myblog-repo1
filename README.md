@@ -7,7 +7,10 @@ Registered users can:
 - Delete posts
 - Guests can comment on posts, create RSS feeds
 
-This application allows you to 
+Installation Requirements
+- PHP 8.0
+- MySQL
+
 How to use
 - Clone the repository with git clone
 - Copy .env.example file to .env and edit database credentials there
@@ -19,3 +22,5 @@ How to use
 
 License
 - Please use and re-use as you like.
+
+Swagger API tests available on request.
