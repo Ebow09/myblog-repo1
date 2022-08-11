@@ -1,12 +1,12 @@
 # Blogging Application
-## Blogging application allowing the performance of CRUd operations
+## Blogging application allowing the performance of CRUD operations
 Registered users can:
 - Create posts
 - Delete comments
 - Edit posts
 - Delete posts
 
-##How to use
+How to use
 - Clone the repository with git clone
 - Copy .env.example file to .env and edit database credentials there
 - Run composer install
