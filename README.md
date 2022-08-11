@@ -5,7 +5,7 @@ Registered users can:
 - Delete comments
 - Edit posts
 - Delete posts
-Guests can comment on posts, create RSS feeds
+- Guests can comment on posts, create RSS feeds
 
 This application allows you to 
 How to use
@@ -16,3 +16,6 @@ How to use
 - Run php artisan migrate
 - Run the seeder 
 - That's it - load the homepage
+
+License
+- Please use and re-use as you like.
